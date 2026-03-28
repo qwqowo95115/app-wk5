@@ -1,0 +1,24 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "plugins": [
+      "expo-router"
+    ],
+    "name": "app-wk5",
+    "slug": "app-wk5",
+    "extra": {
+      "router": {},
+      "eas": {
+        "projectId": "606963b0-63b9-4ecf-9898-0ac414536126"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/606963b0-63b9-4ecf-9898-0ac414536126"
+    },
+    "android": {},
+    "ios": {}
+  }
+}
